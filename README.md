@@ -2,6 +2,11 @@
 A simple JS counter app
 
 Index.css
+
+
+
+
+
 body {
     background-image: url("station.jpg");
     background-size: cover;
